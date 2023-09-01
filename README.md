@@ -3,7 +3,6 @@ The project focuses on creating an program to help you exercise, by determining 
 </br>
 ![image](https://github.com/stha1122/AI-Rep-Counter/assets/122188963/1bcbad9e-8ece-4f75-8b2d-248c2f0a4760)
 </br>
-</br>
 # Bicep Curl Counter</br>
 ![image](https://github.com/stha1122/AI-Rep-Counter/assets/122188963/6674b27c-de54-4047-8f80-a9f21dba356e)
 </br>
